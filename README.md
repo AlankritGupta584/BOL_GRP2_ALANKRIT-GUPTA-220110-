@@ -5,3 +5,8 @@ Group members
 3 Ekansh Bajpai
 4 Shreyansh
 (will shortly edit with full name and rollno)
+
+About Project- Basis of learning (2023-24), Bcs,IITK 
+mentors-
+Saurabh Patil
+Anchit
