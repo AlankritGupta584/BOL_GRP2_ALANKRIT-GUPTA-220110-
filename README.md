@@ -7,6 +7,6 @@ Group members<br>
 (will shortly edit with full name and rollno)<br><br>
 
 About Project- Basis of learning (2023-24), Bcs,IITK<br> 
-mentors-<br>
-Saurabh Patil<br>
-Anchit<br>
+Mentors-<br>
+1 Saurabh Patil<br>
+2 Anchit<br>
